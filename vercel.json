@@ -6,15 +6,15 @@
     },
     {
       "source": "/api/netease/:apiurl*",
-      "destination": "https://music-api.focalors.ltd/:apiurl*"
+      "destination": "https://https://neteast.vercel.app/:apiurl*"
     },
     {
       "source": "/api/unblock/:match*",
-      "destination": "https://unm-server.focalors.ltd/:match*"
+      "destination": "https://https://anoneteast.vercel.app/:match*"
     },
     {
       "source": "/api/ttml/:ttmlurl*",
-      "destination": "https://lyrics.focalors.ltd/:ttmlurl*"
+      "destination": "https://https://lyrics-seven-livid.vercel.app/:ttmlurl*"
     },
     {
       "source": "/api/kuwo/songcdn/:kuwourl*",
